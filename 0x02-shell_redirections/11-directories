@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d -not -namw | wC -l
+find . -type d -not -name | wC -l
